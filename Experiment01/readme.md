@@ -244,3 +244,17 @@ ping all connected devices
 6. Observe packet flow
 
 ---
+## Screenshot  Star topology  
+<img width="1920" height="1080" alt="Screenshot 2026-04-23 103754" src="https://github.com/user-attachments/assets/d032d55e-479b-4f2b-b387-2631ddf7c283" />
+
+## Screenshot Mesh topology 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/128d1e48-d140-4cc7-a74b-21e2b4f6e0cc" />
+
+## Screenshot bus toplogy 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/edaca365-d572-4d0b-aa54-0940d5009de9" />
+
+## Screenshot ring topology 
+<img width="1920" height="1080" alt="Screenshot 2026-04-23 105102" src="https://github.com/user-attachments/assets/f8386e37-5225-46bd-af31-747d7058cf7c" />
+
+
+
